@@ -1,2 +1,2 @@
 # ML-and-Data
-IT7071 MACH LRN &amp; DATA MIN
+Class Work for IT7071 MACH LRN &amp; DATA MIN
